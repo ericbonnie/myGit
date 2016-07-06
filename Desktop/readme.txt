@@ -5,6 +5,7 @@ Git has a mutable index called stage
 Git tracks changes
 Git track
 Synchronic 
-Creating a new branch is quick
-Re-test dev branch
+Creating a new branch is quick and Simple and SImple
+
+
 
