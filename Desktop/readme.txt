@@ -7,4 +7,5 @@ Git track
 Synchronic 
 Creating a new branch is quick
 Re-test dev branch and simple
+Creating a new branch is quick and Simple and SImple
 
